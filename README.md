@@ -6,11 +6,11 @@
 
 ## Περιεχόμενα
 
-- Δημιουργία λεξιλογίου με βάση Information Gain
+- Δημιουργία λεξιλογίου με βάση `Information Gain`
 - Μετατροπή κειμένων σε διανύσματα χαρακτηριστικών (bag-of-words)
-- Εκπαίδευση custom Naive Bayes ταξινομητή
-- Σύγκριση με Scikit-learn `BernoulliNB`
-- Αξιολόγηση μοντέλων με precision, recall, F1 και accuracy
+- Εκπαίδευση custom `Naive Bayes` ταξινομητή
+- Σύγκριση με `Scikit-learn BernoulliNB`
+- Αξιολόγηση μοντέλων με `precision`, `recall`, `F1` και `accuracy`
 
 ---
 
