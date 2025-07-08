@@ -6,11 +6,11 @@ This project implements a Naive Bayes classifier for sentiment analysis on movie
 
 ## Contents
 
-- Vocabulary creation using Information Gain  
+- Vocabulary creation using `Information Gain`  
 - Text-to-feature vector conversion (bag-of-words)  
-- Custom Naive Bayes classifier implementation  
-- Comparison with Scikit-learn `BernoulliNB`  
-- Model evaluation with precision, recall, F1, and accuracy metrics  
+- Custom `Naive Bayes` classifier implementation  
+- Comparison with `Scikit-learn BernoulliNB`  
+- Model evaluation with `precision`, `recall`, `F1`, and `accuracy metrics`  
 
 ---
 
