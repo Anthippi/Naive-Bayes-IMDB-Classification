@@ -1,5 +1,5 @@
 
-# Naive Bayes Classifier για Ανάλυση Συναισθήματος (IMDB Dataset) [![Static Badge](https://img.shields.io/badge/English-orange)](README.en.md)
+# Κατηγοριοποίηση Κριτικών με Naive Bayes (Θετικές/Αρνητικές) (IMDB Dataset) [![Static Badge](https://img.shields.io/badge/English-orange)](README.en.md)
 
 Αυτό το έργο υλοποιεί έναν **Naive Bayes ταξινομητή** για την ανάλυση συναισθήματος σε κριτικές ταινιών από το σύνολο δεδομένων [IMDb](https://ai.stanford.edu/~amaas/data/sentiment/). Ο ταξινομητής κατασκευάζεται από την αρχή, με στόχο την κατανόηση βασικών εννοιών επεξεργασίας φυσικής γλώσσας (NLP), επιλογής χαρακτηριστικών και πιθανοκρατικής μοντελοποίησης.
 
