@@ -80,4 +80,3 @@ Custom υλοποίηση του Naive Bayes:
     - `pandas`
     - `matplotlib`
     - `sklearn`
----\\
