@@ -38,6 +38,22 @@ Custom Naive Bayes implementation:
 
 ---
 
+## Customization
+
+Modify these parameters in the notebook:
+
+```python
+# Vocabulary parameters
+n = 50    # Ignore top-n frequent words
+k = 80    # Ignore bottom-k rare words
+m = 500   # Select top-m features
+
+# Training parameters
+train_size = 25000  # Training samples per class
+test_size = 25000   # Test samples per class
+```
+---
+
 ## Execution Instructions
 
 1. Download the IMDB dataset  
@@ -121,20 +137,4 @@ Scikit-Learn Results:
 
     accuracy                           0.86     25000
 
-```
----
-
-## Customization
-
-Modify these parameters in the notebook:
-
-```python
-# Vocabulary parameters
-n = 50    # Ignore top-n frequent words
-k = 80    # Ignore bottom-k rare words
-m = 500   # Select top-m features
-
-# Training parameters
-train_size = 25000  # Training samples per class
-test_size = 25000   # Test samples per class
 ```
